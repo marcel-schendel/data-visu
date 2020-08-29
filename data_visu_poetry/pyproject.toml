@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "data_visu"
+version = "0.1.0"
+description = ""
+authors = ["MacschMacsch <marcelschendel@aol.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+voila = "^0.1.21"
+jupyter = "^1.0.0"
+matplotlib = "^3.3.0"
+numpy = "^1.19.1"
+voila-gridstack = "^0.0.9"
+pandas = "^1.0.5"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
