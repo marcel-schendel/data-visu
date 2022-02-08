@@ -9,7 +9,7 @@ python = "^3.8"
 voila = "^0.1.21"
 jupyter = "^1.0.0"
 matplotlib = "^3.3.0"
-numpy = "^1.19.1"
+numpy = "^1.21.0"
 voila-gridstack = "^0.0.9"
 pandas = "^1.0.5"
 
